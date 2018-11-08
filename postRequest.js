@@ -2,6 +2,7 @@ function httpPostRequest(postCommand, requestBody, callbackFunction, callbackArg
 {
 
     // test changes
+    // second test changes
 	var postURLAndPort = "http://150.82.218.237:8080/"
 	
 	if(postCommand == "SparkQuery") 
